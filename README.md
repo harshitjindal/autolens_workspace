@@ -1,3 +1,12 @@
+# GSOC 2020 Evaluation [CERN]
+# Title: Simulating Dark Matter with Strong Gravitational Lensing
+# Submitted By: Harshit Jindal
+
+## Submission Directory: https://github.com/harshitjindal/autolens_workspace/tree/cern-submission/cern_exam
+## Notebook Directory (2 Notebooks): https://github.com/harshitjindal/autolens_workspace/tree/cern-submission/cern_exam/Notebooks
+
+---
+
 # PyAutoLens Workspace
 
 Welcome to the **PyAutoLens** Workspace. If you haven't already, you should install **PyAutoLens**, following the instructions at [PyAutoLens](https://github.com/Jammy2211/PyAutoLens).
